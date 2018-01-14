@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\bin\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.deps.json
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\bin\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.runtimeconfig.json
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\bin\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\bin\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.dll
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\bin\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.pdb
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.AssemblyInfo.cs
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.dll
+C:\Users\User\source\repos\TestConsoleCoreApp\TestConsoleCoreApp\obj\Debug\netcoreapp2.0\ImageTestConsoleCoreApp.pdb
